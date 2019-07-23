@@ -8,7 +8,7 @@
 <!-- Off Line / Local -->
 
 <script type="text/javascript" 
-        src="<?php echo base_url('DataTables/datatables.min.js') ?>">
+        src="<?php base_url('DataTables/datatables.min.js') ?>">
 </script>
 
 <dialog id="sucesso" class="">
